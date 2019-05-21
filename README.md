@@ -7,7 +7,7 @@ Create a piece of Generative Art by making edits/additions to code provided in t
 
 Example:
 
-<img src="https://raw.githubusercontent.com/riverpointacademy/GenerativeArt-Fall2018/master/Grid.png"/> 
+<img src="https://raw.githubusercontent.com/riverpointacademy/AxiDrawGen-Spring2019/master/Grid.png"/> 
 
 ## Assignment Steps
 
